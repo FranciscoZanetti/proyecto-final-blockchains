@@ -1,0 +1,58 @@
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  BUSD deployed at: 0x2245de45763282d3c1bFEE98CFf2f103d21F68D5
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 11155111
+
+Estimated gas price: 0.003031667 gwei
+
+Estimated total gas used for script: 832928
+
+Estimated amount required: 0.000002525160330976 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: C:/Users/Zanet/Documents/UP/blockchains/proyecto_final/broadcast\DeployBUSD.s.sol\11155111\run-latest.json
+
+Sensitive values saved to: C:/Users/Zanet/Documents/UP/blockchains/proyecto_final/cache\DeployBUSD.s.sol\11155111\run-latest.json
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  CCNFT deployed at: 0x63Af39c518254474285D1238561059065F280838
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 11155111
+
+Estimated gas price: 0.003257361 gwei
+
+Estimated total gas used for script: 3293979
+
+Estimated amount required: 0.000010729678729419 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: C:/Users/Zanet/Documents/UP/blockchains/proyecto_final/broadcast\DeployCCNFT.s.sol\11155111\run-latest.json
+
+Sensitive values saved to: C:/Users/Zanet/Documents/UP/blockchains/proyecto_final/cache\DeployCCNFT.s.sol\11155111\run-latest.json
+

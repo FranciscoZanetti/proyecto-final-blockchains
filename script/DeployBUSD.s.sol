@@ -6,9 +6,14 @@ import "../src/BUSD.sol";
 
 contract DeployBUSD is Script {
     function run() external {
-        vm.startBroadcast();
+        uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY_HEXA");
+
+        vm.startBroadcast(deployerPrivateKey);
+
         BUSD busd = new BUSD();
-        console.log("BUSD deployed at:", address(busd));
+
         vm.stopBroadcast();
+
+        console.log("BUSD deployed at:", address(busd));
     }
 }
